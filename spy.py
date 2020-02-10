@@ -275,7 +275,7 @@ def saring_id_teman(r):
 		id_bteman.append(i)
 def idteman():
 	if log != 1:
-		cetak('!h[*] Login !bFB !hdulu bos...')
+		cetak('!h[*] Silahkan Masukan !bUsername FB !hAnda...')
 		login()
 		if log == 0:
 			keluar()
